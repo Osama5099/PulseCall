@@ -49,7 +49,7 @@ export default function LoginPage() {
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="osama@email.com"
+              placeholder="osama@gmail.com"
               autoComplete="email"
             />
           </label>
